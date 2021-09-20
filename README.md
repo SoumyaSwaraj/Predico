@@ -14,7 +14,7 @@ ingly for further  treatment. It's an  exemplar where  technology and health
 knowledge are sewn into a thread perfectly with a desire to achieve "prediction 
 is better than cure".
 # Architecture
-![](https://github.com/SoumyaSwaraj/Predico/blob/main/architecture.PNG)
+![](https://github.com/SoumyaSwaraj/Predico/blob/main/architecture.png)
 ### Dataset used - 
 https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
