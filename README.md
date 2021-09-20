@@ -1,28 +1,29 @@
-### General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
+### Predico - The General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
 
 
-# How To Use This
-First make sure PostgreSQL and pgadmin is install in your system. 
-then you have to manually create a DB instance on PostgreSQL named "predico", better use PgAdmin for that.
-make a new environment(recommended) and run...
-
-- Run pip install -r requirements.txt to install dependencies
-- Run python manage.py makemigrations
-- Run python manage.py migrate
-- Run python manage.py runserver
-- Navigate to http://127.0.0.1:8000/ in your browser
-
+# Abstract
+In this era of  IT, technology has revolutionized the health domain to  
+a  great  extent.  This  project  aims  to  design  a  diagnostic  model  for  various  dis- 
+eases relying on their symptoms. This System has used data mining techniques 
+such  as  classification  in  order  to  achieve  such  a  model.  Datasets  consisting  of 
+voluminous  data  about patient diseases  are  gathered, refined and  classified  and 
+were used for training the intelligent agent. Here, the Naive Bayes Algorithm is 
+used  for  classification  purpose.  Naïve  Bayes  Classifier  calculates the  probabil- 
+ity of the disease. Based on the result, the patient can contact the doctor accord- 
+ingly for further  treatment. It's an  exemplar where  technology and health 
+knowledge are sewn into a thread perfectly with a desire to achieve "prediction 
+is better than cure".
+# Architecture
+![](https://github.com/SoumyaSwaraj/Predico/blob/master/architecture.PNG)
 ### Dataset used - 
 https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
 ### Some Sceenshots of This Webapp -
 
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture1.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture2.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture3.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture4.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture5.PNG)
+![](https://github.com/SoumyaSwaraj/Predico/blob/master/screenshots/Capture1.PNG)
+![](https://github.com/SoumyaSwaraj/Predico/blob/master/blob/master/screenshots/Capture2.PNG)
+![](https://github.com/SoumyaSwaraj/Predico/blob/master/blob/master/screenshots/Capture3.PNG)
+![](https://github.com/SoumyaSwaraj/Predico/blob/master/blob/master/screenshots/Capture4.PNG)
+![](https://github.com/SoumyaSwaraj/Predico/blob/master/blob/master/screenshots/Capture5.PNG)
 
 
-### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
-and if you like this project, do give it a "Star" Thank you..
