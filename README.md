@@ -1,7 +1,8 @@
-### Predico - The General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
+# Predico - The General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
 
+### Live Deployment/Demo Video - http://demos.soumyaswaraj.com/predico/
 
-# Abstract
+## Abstract
 In this era of  IT, technology has revolutionized the health domain to  
 a  great  extent.  This  project  aims  to  design  a  diagnostic  model  for  various  dis- 
 eases relying on their symptoms. This System has used data mining techniques 
@@ -13,7 +14,8 @@ ity of the disease. Based on the result, the patient can contact the doctor acco
 ingly for further  treatment. It's an  exemplar where  technology and health 
 knowledge are sewn into a thread perfectly with a desire to achieve "prediction 
 is better than cure".
-# Architecture
+
+## Architecture
 ![](https://github.com/SoumyaSwaraj/Predico/blob/main/architecture.png)
 ### Dataset used - 
 https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
